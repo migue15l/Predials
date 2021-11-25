@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prediales</string>
+    <string name="name">Nombre</string>
+    <string name="birth_date">Fecha de nacimiento (YYYY-mm-dd)</string>
+    <string name="gender"Sexo></string>
+    <string name="gebder_m"M></string>
+    <string name="gebder_f"F></string>
+    <string name="single_mother">Madre Soltera</string>
+    <string name="extension">Extension (m2)</string>
+    <string name="zone">Zona</string>
+    <string name="add_predial">Agregar predio</string>
+    <string name="message_calculate">Calcular</string>
+</resources>
